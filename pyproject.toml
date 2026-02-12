@@ -9,8 +9,8 @@ isort = ">=5.7"
 mypy = ">=0.910"
 pre-commit = ">=2.13"
 pylint = ">=2.9"
-python = ">=3.8"
+python = ">=3.10"
 
 [tool.black]
 line-length = 120
-target-version = ['py38']
+target-version = ['py310']
